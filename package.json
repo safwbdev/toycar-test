@@ -1,0 +1,28 @@
+{
+  "name": "toycar-test",
+  "version": "1.0.0",
+  "description": "toycar-test",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safwbdev/toycar-test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/safwbdev/toycar-test/issues"
+  },
+  "homepage": "https://github.com/safwbdev/toycar-test#readme",
+  "dependencies": {
+    "next": "^9.1.6",
+    "react": "^16.12.0",
+    "react-dom": "^16.12.0"
+  }
+}
